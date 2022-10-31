@@ -29,6 +29,7 @@ img {
 
 .container {
   width: 70%;
+  height: 100vh;
   margin: auto;
   text-align: center;
 }
